@@ -1,5 +1,5 @@
 #cachorro {
-	width: 8em;
+	width: 10em;
 	margin-top: 400px;
 	margin-left: 100px;
 }
@@ -8,11 +8,15 @@
 	width: 8em;
 	position: absolute;
 	top: 300px;
-	left: 900px;
+	left: 1100px;
 }
 
 #campo {
 	width: 4em;
 	display: block;
 	margin-top: 2em;
+}
+
+body {
+	background-image: url(/img/campo.jpg);
 }

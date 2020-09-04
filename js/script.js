@@ -4,7 +4,7 @@ var largura =100;
 
 $("#campo").keydown(function(evento){
 
-	if (largura >= 900 && altura >= 300) {
+	if (largura >= 1100 && altura >= 300) {
 	 alert('Atingiu o Objetivo');
 	}
 	else {
